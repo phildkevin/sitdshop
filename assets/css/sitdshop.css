@@ -1,0 +1,40 @@
+body{
+
+	margin-top: 60px;
+	background-image: url('../images/background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	min-height: 1000px;
+
+}
+
+.transparent{
+
+	background-color: transparent !important;
+
+
+}
+.nav-link{
+	color: #fff !important;
+}
+.back-to-top {
+    background: #01b1d7;
+    border-top-left-radius: 15px;
+    bottom: 31px;
+    color: #fff !important;
+    cursor: pointer;
+    font-size: 17px;
+    height: 40px;
+    line-height: 39px;
+    position: fixed;
+    right: 5px;
+    text-align: center;
+    text-decoration: none;
+    width: 40px;
+    z-index: 9999;
+    outline: none;
+    bottom: 5px;
+    transition: all .5s ease;
+}

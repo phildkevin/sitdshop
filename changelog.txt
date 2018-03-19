@@ -1,0 +1,113 @@
+#12 - 7 - 2017
+
++ Admin Module
+    - Interface
+    - Login
+    - Add Product
+    - Add Employee
+
++  Employee Module
+    - Interface
+
++ User Module
+    - Interface
+    - login
+    - Sign up
+
++Ulam
+
+    - Aljohn-> Tosilog
+    - Keevin-> Chixsilog
+    - Jezer-> Tosilog
+    - Mark Joseph-> Tosilog
+    - Rolando-> Tosilog * nag last hit ng stick-o
+    - Wylo-> Cornsilog
+    - Adrian-> Tocilog
+    - Rizal-> Bangsilog
+    - Cedrick-> Absent * humabol nung umaga , nag pandesal
+    - Christian-> Absent
+
+Remarks:
+	 NAG KAPE LAHAT <3
+ 	Our team work hard but we play harder the struggle is real   
+
+Acknowledgement:
+	We thank the presence of some of the Team testing , Testing Team
+
+		- Mark Julius Vitales
+		- Kim Maranan
+
+
+# ADDED BUGS TO FIX LATER
+
+#12 - 12 - 2017
+
++ Admin Module
+    - Pull Out Product
+
++ Employee Module
+    - View Orders
+    - Payments
+    - Notifcations
+
++ User Module
+    - Edit Account
+    - Sign up (Updated) + BUG FIX
+	// SOME BUGS ARE FIXED
+
++Ulam
+
+    - Aljohn-> Tosilog
+    - Keevin-> Bangsilog
+    - Jezer-> Tosilog
+    - Mark Joseph-> Porksilog
+    - Rolando-> Chicksilog
+    - Wylo-> Chicksilog
+    - Adrian-> Chicksilog
+    - Rizal-> Bangsilog
+    - Cedrick-> Absent ulit
+    - Christian-> Absent ulit
+
+Remarks:
+	 NAG KAPE LAHAT Ulit<3
+ 	Our team work hard but we SLEEP harder the struggle is very real
+
+
+#12 - 15 -2017
+
++ Admin Module
+    - Edit Product
+	// Maybe added some bugs
+
++ Employee Module
+    - Notifications (Updated)
+	// Fix some bugs and added more to fix later 
+
++ User Module
+    - Edit Account (Final Update)
+    - Sign up (Updated)
+    - View Recent Order
+
++Ulam
+
+    - Aljohn-> Tosilog
+    - Keevin-> Chicksilog
+    - Jezer-> Tosilog
+    - Mark Joseph-> Chicksilog
+    - Rolando-> Chicksilog
+    - Wylo-> Absent * nadukot ni harvey
+    - Adrian-> Absent * may beke
+    - Rizal-> Absent * Quality time with GF
+    - Cedrick-> Absent nanaman
+    - Christian-> Absent nanaman
+
+Remarks:
+	 NAG KAPE LAHAT Ulit<3
+ 	Our team work hard but we think we need to work harder the struggle is very very eminent
+	Kinakabahan na kami kay maam ayeh
+
+
+
+
+
+
